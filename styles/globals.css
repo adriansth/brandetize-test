@@ -1,3 +1,6 @@
+/* Fonts from Adobe */
+@import url("https://use.typekit.net/juo8ten.css");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
