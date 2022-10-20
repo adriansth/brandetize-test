@@ -3,6 +3,7 @@ import Head from 'next/head';
 // Components
 import Main from '../components/Main';
 import About from '../components/About';
+import Founder from '../components/Founder';
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <main>
         <Main />
         <About />
+        <Founder />
       </main>
 
     </div>

@@ -7,7 +7,7 @@ import img3 from '../media/shape-cluster-3.png';
 
 export default function About() {
     return(
-        <div className='h-screen pt-8'>
+        <div className='pt-8 py-20'>
             <h2 className='font-header font-bold text-normalBrown text-center text-[53px]'>What you'll achieve:</h2>
             <div className='flex justify-center gap-x-48 mt-[48px] h-[80%] items-center'>
                 <div className='w-[300px] font-body text-grayBrown flex flex-col h-[500px]'>
