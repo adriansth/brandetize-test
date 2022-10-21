@@ -4,6 +4,7 @@ import Head from 'next/head';
 import Main from '../components/Main';
 import About from '../components/About';
 import Founder from '../components/Founder';
+import Collapsable from '../components/Collapsable';
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
         <Main />
         <About />
         <Founder />
+        <Collapsable />
       </main>
 
     </div>

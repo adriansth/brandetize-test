@@ -10,7 +10,7 @@ import oprah from '../media/oprah-logo.png';
 
 export default function Founder() {
     return(
-        <div className='w-screen pt-16 px-16'>
+        <div className='w-screen py-16 px-16'>
             <div className='flex justify-center gap-x-20'>
                 <div className='w-[632px]'>
                     <Image src={img} />
