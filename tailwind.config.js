@@ -19,6 +19,7 @@ module.exports = {
         lightBrown: '#E0D3C2',
         cream: '#FDF3E3',
         greenBrown: '#AA9F89',
+        orangeBrown:'#DDBA7C', 
       }
     },
   },

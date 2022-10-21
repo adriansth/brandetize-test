@@ -5,6 +5,7 @@ import Main from '../components/Main';
 import About from '../components/About';
 import Founder from '../components/Founder';
 import Collapsable from '../components/Collapsable';
+import Testimonials from '../components/Testimonials';
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
         <About />
         <Founder />
         <Collapsable />
+        <Testimonials />
       </main>
 
     </div>
