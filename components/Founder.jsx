@@ -22,7 +22,7 @@ export default function Founder() {
                         lonely and sick of wasting time going on dates and having relationships with unavailable man that go nowhere.
                     </p>
                     <p className='text-[27px] mb-10 text-grayBrown'>
-                        Through her own journwy to find love, Marni discovered that creating a process to shorten the journey for other women suffering from the inability to create emotionally safe and
+                        Through her own journey to find love, Marni discovered that creating a process to shorten the journey for other women suffering from the inability to create emotionally safe and
                         fulfilling life relationships was truly the mission of her soul and purpose.
                     </p>
                     <button className='bg-salmon h-[70px] rounded-full w-[450px] text-white text-[24px] font-bold shadow-lg'>Discover Marni's Proven Process</button>
