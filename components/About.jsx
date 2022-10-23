@@ -12,15 +12,15 @@ export default function About() {
             <div className='flex justify-center gap-x-48 mt-[48px] h-[80%] items-center'>
                 <div className='w-[300px] font-body text-grayBrown flex flex-col h-[500px]'>
                     <Image src={img1} />
-                    <p>Why you don't need to settle for unhapiness in this One area of your life.</p>
+                    <p className='mt-4 text-center'>Why you don't need to settle for unhapiness in this One area of your life.</p>
                 </div>
                 <div className='w-[300px] font-body text-grayBrown flex flex-col h-[500px] justify-end'>
                     <Image src={img2} />
-                    <p>Why you CAN have it all (and how to stop attracting the wrong guys who are intimidated by your success).</p>
+                    <p className='mt-4 text-center'>Why you CAN have it all (and how to stop attracting the wrong guys who are intimidated by your success).</p>
                 </div>
                 <div className='w-[300px] font-body text-grayBrown flex flex-col h-[500px]'>
                     <Image src={img3} />
-                    <p>How to break down the walls that keep your authentic self hidden from your forever partner.</p>
+                    <p className='mt-4 text-center'>How to break down the walls that keep your authentic self hidden from your forever partner.</p>
                 </div>
             </div>
         </div>

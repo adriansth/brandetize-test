@@ -25,7 +25,7 @@ export default function Founder() {
                         Through her own journey to find love, Marni discovered that creating a process to shorten the journey for other women suffering from the inability to create emotionally safe and
                         fulfilling life relationships was truly the mission of her soul and purpose.
                     </p>
-                    <button className='bg-salmon h-[70px] rounded-full w-[450px] text-white text-[24px] font-bold shadow-lg'>Discover Marni's Proven Process</button>
+                    <button className='bg-salmon h-[70px] rounded-full w-[450px] text-white text-[24px] font-bold shadow-lg hover:bg-lightSalmon'>Discover Marni's Proven Process</button>
                 </div>
             </div>
             <div className='flex items-center justify-around h-[100px] mt-20'>

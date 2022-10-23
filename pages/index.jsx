@@ -7,6 +7,7 @@ import Founder from '../components/Founder';
 import Collapsable from '../components/Collapsable';
 import Testimonials from '../components/Testimonials';
 import Agenda from '../components/Agenda';
+import Footer from '../components/Footer';
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
         <Collapsable />
         <Testimonials />
         <Agenda />
+        <Footer />
       </main>
 
     </div>
