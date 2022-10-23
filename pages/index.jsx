@@ -19,13 +19,21 @@ export default function Home() {
       </Head>
 
       <main>
-        <Main />
-        <About />
-        <Founder />
-        <Collapsable />
-        <Testimonials />
-        <Agenda />
-        <Footer />
+        <div className='h-full w-full'>
+          <div className='bg-gradient-to-br from-backgroundSalmon via-lightCream to-backgroundSalmon'>
+            <Main />
+            <About />
+            <Founder />
+            <Collapsable />
+          </div>
+          <div>
+            <Testimonials />
+          </div>
+          <div className='bg-gradient-from-bl bg-gradient-to-tr from-lightCream via-lightCream to-backgroundSalmon'>
+            <Agenda />
+            <Footer />
+          </div>
+        </div>
       </main>
 
     </div>

@@ -20,7 +20,9 @@ module.exports = {
         cream: '#FDF3E3',
         greenBrown: '#AA9F89',
         orangeBrown:'#DDBA7C',
-        lightGrayBrown: '#AA9F89', 
+        lightGrayBrown: '#AA9F89',
+        lightCream: '#FFFBF5',
+        backgroundSalmon: '#FCD1CC',
       }
     },
   },
